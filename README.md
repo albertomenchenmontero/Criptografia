@@ -2,7 +2,7 @@
 En este repositorio se encontrará todo el material utilizado para la implementación del GESTOR DE CONTRASEÑAS con cifrado RSA/AES y certificados digitales
 
 
-# 🔐 Proyecto de Criptografía
+# 🔐 Proyecto de Gestor de Contraseñas
 
 Este proyecto fue desarrollado en la asignatura de **Criptografía** como parte del Grado en Ingeniería Informática en la UC3M.  
 El objetivo era implementar una aplicación en **Python** que gestionara usuarios y sus credenciales de forma segura, incorporando:
