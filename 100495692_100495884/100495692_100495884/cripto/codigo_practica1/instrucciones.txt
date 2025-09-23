@@ -1,0 +1,3 @@
+Ejecutar el archivo app.py para la interfaz
+Todo el código ha sido creado usando como interprete Python 3.9
+Necesario el paquete cryptography
