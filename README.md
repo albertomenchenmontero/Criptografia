@@ -3,8 +3,7 @@ En este repositorio se encontrará todo el material utilizado para la implementa
 
 
 # 🔐 Proyecto de Gestor de Contraseñas
-
-Este proyecto fue desarrollado en la asignatura de **Criptografía** como parte del Grado en Ingeniería Informática en la UC3M.  
+  
 El objetivo era implementar una aplicación en **Python** que gestionara usuarios y sus credenciales de forma segura, incorporando:
 
 - Cifrado simétrico y asimétrico
@@ -63,9 +62,6 @@ El objetivo era implementar una aplicación en **Python** que gestionara usuario
 
 - **Memoria en PDF (`100495692_100495884.pdf`)**  
   Documento de memoria explicativa de la práctica.
-
-- **`autores.txt`**  
-  Integrantes del proyecto.
 
 ---
 
